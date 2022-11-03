@@ -3,16 +3,16 @@
 - Jose Umaña.
 ### Descripción
 
-El trabajo consta en la elaboración de un programa en Python, el cual se basa en la creación de un cuaderno de notas de Jupyter. En este, se muestra la creación y modificación de tablas así mismo la creación de diferentes gráficos.
-Los datos que se trabajaron pertenecen a: [Ministerio de Salud/OGES](https://oges.ministeriodesalud.go.cr/)
+El trabajo consta en la elaboración de un programa en Python, se basa en la creación de un cuaderno de notas Jupyter. Se muestra la creación y modificación de tablas, así como gráficos.
+Los datos pertenecen a: [Ministerio de Salud/OGES](https://oges.ministeriodesalud.go.cr/)
 
 ## Análisis de gráficos.
 
 1.**Gráfico de barras**
 
 ### Casos nuevos de COVID
-Al existir un orden inherente (días) se puede observar de manera clara la tendencia de los casos nuevos en el país. En los primeros meses los casos nuevos se mantienen por debajo de los 1000, hay una disminución de casos, pero seguidamente hay un alza en el mes de abril año 202, que supera los 1000 casos diarios, tiende a bajar nuevamente, y para el mes de enero del año 2022 se disparan los casos nuevos por más de 5000 diarios. 
 
+Se puede observar de manera clara la distribución de los casos nuevos. En los primeros meses los casos no superan los 1000 diarios, para el año 2021 en el mes de abril, se genera una alza superando la tendencia normal. Y para el mes de enero año 2022,  los casos se disparan superando los 5000 casos diarios.
 
 2.**Gráfico de líneas**  
 
@@ -23,7 +23,7 @@ Siempre existe una tendencia similar, con casos acumulados similares, pero para 
 Se observa una gran diferencia entre los casos acumulados de adultos con respecto a los menores y adultos mayores.
 
 3.**Gráfico Sunburst**  
-La provincia de San José fue la que contuvo mayor cantidad de casos de COVID, seguida por las provincias de Alajuela, y Heredia. Guanacaste fue provincia con menor cantidad de casos acumulados positivos.
+La provincia de San José fue la que contuvo mayor cantidad de casos, seguida por las provincias de Alajuela, y Heredia. Guanacaste fue provincia con menor cantidad de casos.
 
 
 [Enlace al sitio NBViewer](https://nbviewer.org/github/Joseumaa13/Tarea02_Covid/blob/main/Tarea%2002.ipynb) 
