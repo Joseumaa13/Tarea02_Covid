@@ -26,4 +26,4 @@ Se observa una gran diferencia entre los casos acumulados de adultos con respect
 La provincia de San José fue la que contuvo mayor cantidad de casos de COVID, seguida por las provincias de Alajuela, y Heredia. Guanacaste fue provincia con menor cantidad de casos acumulados positivos.
 
 
-[Enlace al sitio NBViewer]() 
+[Enlace al sitio NBViewer](https://nbviewer.org/github/Joseumaa13/Tarea02_Covid/blob/main/Tarea%2002.ipynb) 
